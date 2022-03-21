@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaff-oregonstate
-- 👀 I’m interested in plants & many dof robots
+- 👀 I’m seeking work as a software engineer (or similar)
 - 🌱 I’m currently learning 3d printing, flutter, cybersecurity
 - 💞️ I’m currently collaborating on an evacuation drill app.
 - 📫 email: kaffs@oregonstate.edu
