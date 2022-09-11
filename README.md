@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning cloud application development, flutter, & network security
 - 🌊 I’m currently collaborating on an [evacuation drill participation app](https://github.com/kaff-oregonstate/oregon-state-evacuation-app).
 - 📫 email: kaffs@oregonstate.edu
-- [👨‍💻](https://blogs.oregonstate.edu/davidkaff/)
-
 
